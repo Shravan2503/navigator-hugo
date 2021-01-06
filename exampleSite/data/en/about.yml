@@ -2,12 +2,12 @@ enable  : true
 item    :
   - positionRight : false
     image : images/about/about-1.jpg
-    title : Creativity is in our blood
+    title : Telling memorable stories
     description : >
-      Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
+      We are about telling memorable stories about your brand. We tell stories that bring the audience into the narrative by turning them into customers. When they're customers, we tell stories that make them loyal and retain them, hence becoming a part of their lives and people around them. Creating a life for brands, with love.
 
   - positionRight : true
     image : images/about/about-2.jpg
-    title : We think out of the Box
+    title : Content that lasts.
     description : >
       Curabitur felis nibh, imperdiet eu erat non, luctus cursus lectus. Donec maximus diam leo, sed fringilla nisl auctor eget. Donec dictum neque est, ac faucibus ex blandit a Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae quo minima ab aperiam molestiae natus repellendus neque culpa iure, nemo veritatis explicabo facilis, officia, saepe! Et corrupti odit, non deserunt.
